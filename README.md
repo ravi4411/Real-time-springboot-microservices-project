@@ -17,6 +17,7 @@ It showcases the usage of the Spring Boot framework, specifically the creation o
 
 
 
+![flow digram of microservices](https://github.com/ravi4411/Real-time-springboot-microservices-project/assets/76004337/ed5d13e6-1857-4229-adaa-78cd5fb2c3f8)
 
 
 
